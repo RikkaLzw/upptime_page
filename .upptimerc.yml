@@ -1,18 +1,18 @@
-# Change these first
+T# Change these first
 owner: RikkaLzw # Your GitHub organization or username, where this repository lives
 repo: upptime_page # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: LeeupTV
+    url: https://tv.leeup.net
+  - name: LeeupAPI
+    url: https://api.leeup.net
+  - name: Leeup Service Uptime
+    url: https://uptime.leeup.net
+  - name: Leeup Monitor
+    url: https://tz.leeup.net
+  - name: Leeup Blog
+    url: https://blog.leeup.net
     port: 80
     check: "tcp-ping"
     ipv6: true
