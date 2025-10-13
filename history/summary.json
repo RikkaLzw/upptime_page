@@ -77,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.leeup.net.ico",
     "slug": "leeup-blog",
     "status": "up",
-    "uptime": "0.65%",
-    "uptimeDay": "0.65%",
-    "uptimeWeek": "0.65%",
-    "uptimeMonth": "0.65%",
-    "uptimeYear": "0.65%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1025,
     "timeDay": 1025,
     "timeWeek": 1025,
     "timeMonth": 1025,
     "timeYear": 1025,
-    "dailyMinutesDown": {
-      "2025-10-13": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
