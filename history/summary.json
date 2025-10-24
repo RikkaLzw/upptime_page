@@ -4,19 +4,19 @@
     "url": "https://tv.leeup.net",
     "icon": "https://icons.duckduckgo.com/ip3/tv.leeup.net.ico",
     "slug": "leeup-tv",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 930,
-    "timeDay": 1015,
-    "timeWeek": 967,
+    "timeDay": 971,
+    "timeWeek": 962,
     "timeMonth": 930,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2025-10-24": 0
+      "2025-10-24": 24
     }
   },
   {
