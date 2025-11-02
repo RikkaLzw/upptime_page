@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 906,
-    "timeDay": 881,
-    "timeWeek": 840,
-    "timeMonth": 906,
-    "timeYear": 906,
+    "time": 907,
+    "timeDay": 938,
+    "timeWeek": 845,
+    "timeMonth": 907,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2025-10-24": 24
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.leeup.net.ico",
     "slug": "leeup-api",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 644,
-    "timeDay": 642,
-    "timeWeek": 611,
-    "timeMonth": 644,
-    "timeYear": 644,
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 648,
+    "timeDay": 727,
+    "timeWeek": 625,
+    "timeMonth": 648,
+    "timeYear": 648,
     "dailyMinutesDown": {
       "2025-10-23": 44
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 880,
-    "timeDay": 932,
-    "timeWeek": 809,
-    "timeMonth": 880,
-    "timeYear": 880,
+    "time": 883,
+    "timeDay": 950,
+    "timeWeek": 821,
+    "timeMonth": 883,
+    "timeYear": 883,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 670,
-    "timeDay": 668,
-    "timeWeek": 648,
-    "timeMonth": 670,
-    "timeYear": 670,
+    "time": 673,
+    "timeDay": 751,
+    "timeWeek": 654,
+    "timeMonth": 673,
+    "timeYear": 673,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1020,
-    "timeDay": 1122,
-    "timeWeek": 964,
-    "timeMonth": 1020,
-    "timeYear": 1020,
+    "time": 1026,
+    "timeDay": 1141,
+    "timeWeek": 984,
+    "timeMonth": 1026,
+    "timeYear": 1026,
     "dailyMinutesDown": {}
   }
 ]
