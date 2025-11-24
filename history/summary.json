@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 745,
-    "timeDay": 245,
-    "timeWeek": 287,
-    "timeMonth": 675,
-    "timeYear": 745,
+    "time": 736,
+    "timeDay": 318,
+    "timeWeek": 286,
+    "timeMonth": 654,
+    "timeYear": 736,
     "dailyMinutesDown": {
       "2025-10-24": 24
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.leeup.net.ico",
     "slug": "leeup-api",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.92%",
-    "time": 660,
-    "timeDay": 666,
-    "timeWeek": 687,
-    "timeMonth": 660,
-    "timeYear": 660,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.93%",
+    "time": 661,
+    "timeDay": 678,
+    "timeWeek": 682,
+    "timeMonth": 662,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2025-10-23": 44
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 879,
-    "timeDay": 936,
-    "timeWeek": 898,
-    "timeMonth": 867,
-    "timeYear": 879,
+    "time": 880,
+    "timeDay": 910,
+    "timeWeek": 904,
+    "timeMonth": 864,
+    "timeYear": 880,
     "dailyMinutesDown": {}
   },
   {
@@ -69,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 670,
-    "timeDay": 623,
-    "timeWeek": 686,
+    "timeDay": 698,
+    "timeWeek": 684,
     "timeMonth": 666,
     "timeYear": 670,
     "dailyMinutesDown": {}
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1032,
-    "timeDay": 1165,
-    "timeWeek": 1049,
-    "timeMonth": 1032,
-    "timeYear": 1032,
+    "time": 1033,
+    "timeDay": 1064,
+    "timeWeek": 1054,
+    "timeMonth": 1030,
+    "timeYear": 1033,
     "dailyMinutesDown": {}
   }
 ]
