@@ -10,8 +10,8 @@ sites:
     url: https://uptime.leeup.net
   - name: Leeup Monitor
     url: https://tz.leeup.net
-  - name: Leeup Blog
-    url: https://blog.leeup.net
+  # - name: Leeup Blog
+  #   url: https://blog.leeup.net
   # - name: IPv6 test
   #     url: forwardemail.net
   #     port: 80
