@@ -1,7 +1,7 @@
 url: https://tz.leeup.net
-status: up
-code: 200
-responseTime: 511
-lastUpdated: 2026-05-23T00:11:29.358Z
+status: down
+code: 502
+responseTime: 224
+lastUpdated: 2026-05-23T08:52:57.737Z
 startTime: 2025-10-13T04:17:09.352Z
 generator: Upptime <https://github.com/upptime/upptime>
