@@ -65,17 +65,17 @@
     "url": "https://tz.leeup.net",
     "icon": "https://icons.duckduckgo.com/ip3/tz.leeup.net.ico",
     "slug": "leeup-monitor",
-    "status": "down",
-    "uptime": "94.89%",
-    "uptimeDay": "91.56%",
-    "uptimeWeek": "97.72%",
-    "uptimeMonth": "96.85%",
-    "uptimeYear": "94.89%",
-    "time": 469,
-    "timeDay": 343,
-    "timeWeek": 390,
-    "timeMonth": 379,
-    "timeYear": 469,
+    "status": "up",
+    "uptime": "94.81%",
+    "uptimeDay": "69.05%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "96.11%",
+    "uptimeYear": "94.81%",
+    "time": 470,
+    "timeDay": 385,
+    "timeWeek": 437,
+    "timeMonth": 382,
+    "timeYear": 470,
     "dailyMinutesDown": {
       "2025-12-07": 769,
       "2025-12-06": 1440,
@@ -107,7 +107,7 @@
       "2026-06-01": 341,
       "2026-06-07": 108,
       "2026-06-13": 121,
-      "2026-06-14": 0
+      "2026-06-14": 324
     }
   }
 ]
