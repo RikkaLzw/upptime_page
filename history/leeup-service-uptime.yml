@@ -1,7 +1,7 @@
 url: https://uptime.leeup.net
-status: up
-code: 200
-responseTime: 254
-lastUpdated: 2026-07-17T00:02:02.078Z
+status: down
+code: 502
+responseTime: 200
+lastUpdated: 2026-07-17T10:13:10.634Z
 startTime: 2025-10-13T04:17:08.196Z
 generator: Upptime <https://github.com/upptime/upptime>
